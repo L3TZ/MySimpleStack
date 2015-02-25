@@ -15,5 +15,6 @@ public class App
         System.out.println("pile vide : "+maPile.isEmpty());
         maPile.pop();
         maPile.pop();
+        System.out.println("pile vide : "+maPile.isEmpty());
     }
 }
